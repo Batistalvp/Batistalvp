@@ -43,7 +43,7 @@ Atualmente estou aprofundando meus conhecimentos em cibersegurança, trabalhando
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Batistalvp/batistalvp/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20estudadas%20S2" height="155" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Batistalvp/Batistalvp/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20estudadas%20S2" height="155" alt="languages graph"  />
 </div>
 
 ###
