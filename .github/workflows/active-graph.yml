@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+        uses: Batistalvp/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: radius=16&theme=chartreuse-dark&area=true&custom_title=Grafico%20de%20contribui%C3%A7%C3%B5es&hide_border=false&hide_title=false
