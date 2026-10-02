@@ -10,13 +10,13 @@ Apaixonado por cibersegurança e desenvolvimento de sistemas, sempre buscando en
 ## 🚀 Tecnologias que utilizo e estudo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,js,shell,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,js,bash,linux,git,github,vscode" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <p align="center" height="40" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+ADS+%7C+Foco+em+Ciberseguran%C3%A7a;Python+%7C+SQL+%7C+Java;Linux+%7C+Redes+%7C+Shell;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=600&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+ADS+%7C+Foco+em+Ciberseguran%C3%A7a;Python+%7C+SQL+%7C+Java;Linux+%7C+Redes+%7C+Bash;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=600&height=30">
 </p>
 
 ## 👨‍💻 Sobre mim
