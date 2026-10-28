@@ -1,57 +1,92 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%20Lucas%20Batista&fontSize=70&fontColor=F00&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%20Lucas%20Batista&fontSize=70&fontColor=F00&animation=fadeIn" alt="Dev. Lucas Batista" />
 
-<h3 align="center">💻 Desenvolvedor </h3>
+<h3 align="center">💻 Desenvolvedor | Cibersegurança e Software</h3>
 
 <p align="center">
-Apaixonado por cibersegurança e desenvolvimento de sistemas, sempre buscando entender como proteger aplicações modernas.
+  Apaixonado por cibersegurança, desenvolvimento de sistemas e soluções práticas com tecnologia.
+  <br />
+  Estou sempre aprendendo e aplicando conceitos de segurança, redes, Linux e automação.
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<p align="center">
+  <a href="mailto:batistalvianna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://w.app/ptgje9" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/Batistalvp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Batistalvp-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em cibersegurança, redes, infraestrutura e desenvolvimento de aplicações seguras.
+
+Atualmente estou fortalecendo meus conhecimentos em Python, Java, SQL, Linux, bash e boas práticas de desenvolvimento seguro. Também gosto de explorar conceitos de redes, hardening e automação.
+
+---
 
 ## 🚀 Tecnologias que utilizo e estudo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,js,bash,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,js,bash,linux,git,github,vscode" alt="Tecnologias" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+### 🔐 Áreas de interesse
 
-<p align="center" height="40" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+ADS+%7C+Foco+em+Ciberseguran%C3%A7a;Python+%7C+SQL+%7C+Java;Linux+%7C+Redes+%7C+Bash;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=600&height=30">
-</p>
+- Cibersegurança
+- Redes e protocolos
+- Linux
+- SQL e banco de dados
+- Automação
+- Cloud
 
-## 👨‍💻 Sobre mim
+---
 
-Sou um estudante de ADS apaixonado por segurança da informação e desenvolvimento de sistemas.
+## 🛠️ Projetos em desenvolvimento
 
-Atualmente estou aprofundando meus conhecimentos em cibersegurança, trabalhando com Python, Linux, SQL e Java, e estudando fundamentos de redes e boas práticas de código seguro.
+- Linux Security Lab — estudos e práticas focadas em segurança em Linux.
+- Network Security Lab — testes e estudos de redes e protocolos.
+- Python Security Toolkit — ferramentas e scripts para automação e análise.
+- Linux Security Basics — documentação e comandos essenciais.
 
+> Os projetos acima são ideias em desenvolvimento. Quando estiverem publicados, posso adicionar os links reais dos repositórios.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+---
 
-###
+## 📊 GitHub
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <a href="https://w.app/ptgje9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Batistalvp&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batistalvp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens principais" />
 </div>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Batistalvp/Batistalvp/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20estudadas%20S2" height="155" alt="languages graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Batistalvp/Batistalvp/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Batistalvp/Batistalvp/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Batistalvp/Batistalvp/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="Contribuições no GitHub" src="https://raw.githubusercontent.com/Batistalvp/Batistalvp/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
 </picture>
 
-###
+---
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="mailto:batistalvianna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-batistalvianna%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://w.app/ptgje9" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<div align="center">
+  <strong>Sempre aprendendo. Sempre evoluindo. 🚀</strong>
+</div>
